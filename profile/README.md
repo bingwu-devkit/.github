@@ -3,6 +3,8 @@
 </p>
 
 <p align="center">
+  <a href="https://hujiachengme.netlify.app/">个人网站</a> ·
+  <a href="https://hujiachengme.netlify.app/tools">工具集</a> ·
   <a href="https://github.com/orgs/bingwu-devkit/repositories">全部仓库</a> ·
   <a href="https://bingwu-skills.netlify.app">Skills 文档</a> ·
   <a href="https://www.npmjs.com/package/bingwu-cli">bingwu CLI</a>
