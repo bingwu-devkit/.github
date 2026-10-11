@@ -19,5 +19,6 @@
 | 项目 | 用途 | 分类 |
 | --- | --- | --- |
 | [bingwu-cli](https://github.com/bingwu-devkit/bingwu-cli) | 个人项目创建 CLI，统一收藏和使用 GitHub 模板与 npm 脚手架 | 🛠️ 开发工具 |
+| [imgrelay](https://github.com/bingwu-devkit/imgrelay) | 在 Codex 中调用第三方中转站生图的 CLI 与 Skill，支持保存和展示原图 | 🎨 AI 生图 |
 | [starter-ts](https://github.com/bingwu-devkit/starter-ts) | TypeScript 库模板，集成 workspace、构建、测试和发布配置 | 🧩 项目模板 |
 | [skills](https://github.com/bingwu-devkit/skills) | 可复用的 Agent Skills，整理开发经验与自动化工作流 | 🤖 AI Skills |
