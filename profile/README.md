@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bingwu-devkit/.github/main/assets/banner.svg" alt="Bingwu DevKit — 个人开发工具箱" width="1200">
+  <img src="https://raw.githubusercontent.com/bingwu-devkit/.github/main/assets/banner.png" alt="bingwu-devkit — 个人开发工具箱" width="1200">
 </p>
 
 <p align="center">
