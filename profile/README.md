@@ -8,7 +8,7 @@
   <a href="https://github.com/orgs/bingwu-devkit/repositories">全部仓库</a>
 </p>
 
-## 👋 欢迎来到 Bingwu DevKit
+## 👋 欢迎来到 bingwu-devkit
 
 这里是我的个人开发工具箱，收藏好用的开源项目，也开发自己每天会用到的工具。
 
